@@ -1,0 +1,1028 @@
+Uri: https://www.chezlartisan.ma/
+File Name: C:\Downloadedsite\www.chezlartisan.ma\index.htm
+Content Type: text/html
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/overlay-pattern.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\overlay-pattern.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/overlay-pattern2.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\overlay-pattern2.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/overlay-pattern3.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\overlay-pattern3.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/circuit-board-pattern.svg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\circuit-board-pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/09/Slider-02.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\09\Slider-02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/09/Slider-03.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\09\Slider-03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/Slider-01.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\Slider-01.jpg
+Content Type: image/jpeg
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloadedsite\www.chezlartisan.ma\xfn\11.html
+Content Type: text/html
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/default/fav-32.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\default\fav-32.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400:normal,700normal,400regular,400normal&subsets=latin&display=swap
+File Name: C:\Downloadedsite\www.chezlartisan.ma\css.css
+Content Type: text/css
+
+Uri: https://www.google.com/
+File Name: C:\Downloadedsite\www.chezlartisan.ma\index-1.htm
+Content Type: text/html
+
+Uri: https://www.chezlartisan.ma/feed/
+File Name: C:\Downloadedsite\www.chezlartisan.ma\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://www.chezlartisan.ma/comments/feed/
+File Name: C:\Downloadedsite\www.chezlartisan.ma\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/wpt-whatsapp/assets/css/public.css?ver=2.2.5
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\wpt-whatsapp\assets\css\public.css
+Content Type: text/css
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/wpt-whatsapp/assets/css/auto-generated-wptwa.css?ver=1570828941
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\wpt-whatsapp\assets\css\auto-generated-wptwa.css
+Content Type: text/css
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.2
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/ut.core.fonts.min.css?ver=5.8.2
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\ut.core.fonts.min.css
+Content Type: text/css
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/ut.core.plugins.min.css?ver=5.8.2
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\ut.core.plugins.min.css
+Content Type: text/css
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.5.1
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/ut.shortcode.min.css?ver=5.8.2
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\ut.shortcode.min.css
+Content Type: text/css
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/ut.vc.shortcodes.min.css?ver=5.8.2
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\ut.vc.shortcodes.min.css
+Content Type: text/css
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/style.css?ver=4.9.7
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\style.css
+Content Type: text/css
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/ut.theme.min.css?ver=4.9.7
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\ut.theme.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400:normal%2C700normal%2C400regular%2C400normal&ver=5.8.2
+File Name: C:\Downloadedsite\www.chezlartisan.ma\css-1.css
+Content Type: text/css
+
+Uri: https://www.chezlartisan.ma/wp-json/
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://www.chezlartisan.ma/wp-json/wp/v2/pages/529
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\wp\v2\pages\529.json
+Content Type: application/json
+
+Uri: https://www.chezlartisan.ma/xmlrpc.php?rsd
+File Name: C:\Downloadedsite\www.chezlartisan.ma\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://www.chezlartisan.ma/wp-includes/wlwmanifest.xml
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.chezlartisan.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.chezlartisan.ma%2F
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://www.chezlartisan.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.chezlartisan.ma%2F&format=xml
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/09/cropped-Fav-32x32.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\09\cropped-Fav-32x32.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/09/cropped-Fav-192x192.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\09\cropped-Fav-192x192.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/09/cropped-Fav-180x180.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\09\cropped-Fav-180x180.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/boulangerie/
+File Name: C:\Downloadedsite\www.chezlartisan.ma\boulangerie\index.htm
+Content Type: text/html
+
+Uri: https://www.chezlartisan.ma/patisserie/
+File Name: C:\Downloadedsite\www.chezlartisan.ma\patisserie\index.htm
+Content Type: text/html
+
+Uri: https://www.chezlartisan.ma/traiteur/
+File Name: C:\Downloadedsite\www.chezlartisan.ma\traiteur\index.htm
+Content Type: text/html
+
+Uri: https://www.chezlartisan.ma/contactez-nous/
+File Name: C:\Downloadedsite\www.chezlartisan.ma\contactez-nous\index.htm
+Content Type: text/html
+
+Uri: https://www.facebook.com/chezlartisancasablanca
+File Name: C:\Downloadedsite\www.chezlartisan.ma\chezlartisancasablanca.html
+Content Type: text/html
+
+Uri: https://salmane.pro/
+File Name: C:\Downloadedsite\www.chezlartisan.ma\index-3.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Yellowtail:regular&display=swap&ver=5.8.2
+File Name: C:\Downloadedsite\www.chezlartisan.ma\css-2.css
+Content Type: text/css
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.7
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\revslider\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://www.chezlartisan.ma/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.chezlartisan.ma/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.7
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\revslider\public\assets\js\rbtools.min.js
+Content Type: application/javascript
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.7
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\revslider\public\assets\js\rs6.min.js
+Content Type: application/javascript
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/ut-shortcodes/js/plugins/modernizr/modernizr.min.js?ver=2.6.2
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\ut-shortcodes\js\plugins\modernizr\modernizr.min.js
+Content Type: application/javascript
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/js/jquery.queryloader2.min.js?ver=2.9.0
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\js\jquery.queryloader2.min.js
+Content Type: application/javascript
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/js/ut-scriptlibrary.min.js?ver=4.9.7
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\js\ut-scriptlibrary.min.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.7323098431157!2d-7.607189284944907!3d33.5862989495876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7cd530f49e935:0x698731fde9a490c7!2sChez L'Artisan!5e0!3m2!1sfr!2sma!4v1570453585511!5m2!1sfr!2sma
+File Name: C:\Downloadedsite\www.chezlartisan.ma\maps\embed.html
+Content Type: text/html
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/wpt-whatsapp/assets/js/public.js?ver=2.2.5
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\wpt-whatsapp\assets\js\public.js
+Content Type: application/javascript
+
+Uri: https://www.chezlartisan.ma/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.chezlartisan.ma/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.2
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/ut-shortcodes/js/ut.scplugin.min.js?ver=4.9.7.8
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\ut-shortcodes\js\ut.scplugin.min.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?onload=renderInvisibleReCaptcha&render=explicit&hl=fr
+File Name: C:\Downloadedsite\www.chezlartisan.ma\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/js/ut-init.min.js?ver=4.9.7
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\js\ut-init.min.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?render=6Ld2Nr0UAAAAAMHQBMAYabodBlqyMdVnkdsL8Fbk&ver=3.0
+File Name: C:\Downloadedsite\www.chezlartisan.ma\recaptcha\api-1.js
+Content Type: text/javascript
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.5.2
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\contact-form-7\modules\recaptcha\index.js
+Content Type: application/javascript
+
+Uri: https://www.chezlartisan.ma/wp-includes/js/wp-embed.min.js?ver=5.8.2
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.5.1
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2017/07/ChunkFive-Roman.eot
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2017\07\ChunkFive-Roman.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2017/07/ChunkFive-Roman.eot?
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2017\07\ChunkFive-Roman-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2017/07/ChunkFive-Roman.woff
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2017\07\ChunkFive-Roman.woff
+Content Type: font/woff
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2017/07/ChunkFive-Roman.ttf
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2017\07\ChunkFive-Roman.ttf
+Content Type: font/ttf
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2017/07/ChunkFive-Roman.svg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2017\07\ChunkFive-Roman.svg
+Content Type: image/svg+xml
+
+Uri: https://wordpress.org/
+File Name: C:\Downloadedsite\www.chezlartisan.ma\index-2.htm
+Content Type: text/html
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/wpt-whatsapp/assets/images/logo-green-small.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\wpt-whatsapp\assets\images\logo-green-small.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-extralight-webfont.eot
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-extralight-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-extralight-webfont.eot?
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-extralight-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-extralight-webfont.woff
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-extralight-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-extralight-webfont.ttf
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-extralight-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-extralight-webfont.svg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-extralight-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-light-webfont.eot
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-light-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-light-webfont.eot?
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-light-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-light-webfont.woff
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-light-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-light-webfont.ttf
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-light-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-light-webfont.svg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-light-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-regular-webfont.eot
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-regular-webfont.eot?
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-regular-webfont.woff
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-regular-webfont.ttf
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-regular-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-regular-webfont.svg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-medium-webfont.eot
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-medium-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-medium-webfont.eot?
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-medium-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-medium-webfont.woff
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-medium-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-medium-webfont.ttf
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-medium-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-medium-webfont.svg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-medium-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-semibold-webfont.eot
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-semibold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-semibold-webfont.eot?
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-semibold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-semibold-webfont.woff
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-semibold-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-semibold-webfont.ttf
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-semibold-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-semibold-webfont.svg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-semibold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-bold-webfont.eot
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-bold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-bold-webfont.eot?
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-bold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-bold-webfont.woff
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-bold-webfont.ttf
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-bold-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/raleway-bold-webfont.svg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\raleway-bold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/icon54com.eot?s2cxjx
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\icon54com.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/icon54com.ttf?s2cxjx
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\icon54com.ttf
+Content Type: font/ttf
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/icon54com.woff?s2cxjx
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\icon54com.woff
+Content Type: font/woff
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/icon54com.svg?s2cxjx
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\icon54com.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/Brooklyn-Core.ttf?c262xj
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\Brooklyn-Core.ttf
+Content Type: font/ttf
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/Brooklyn-Core.woff?c262xj
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\Brooklyn-Core.woff
+Content Type: font/woff
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/Brooklyn-Core.svg?c262xj
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\Brooklyn-Core.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/Brooklyn-WooCommerce.ttf?6hhy2i
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\Brooklyn-WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/Brooklyn-WooCommerce.woff?6hhy2i
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\Brooklyn-WooCommerce.woff
+Content Type: font/woff
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fonts/Brooklyn-WooCommerce.svg?6hhy2i
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fonts\Brooklyn-WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fontawesome/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fontawesome\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fontawesome/fontawesome-webfont.eot?
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fontawesome\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fontawesome/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fontawesome\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fontawesome/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fontawesome\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fontawesome/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fontawesome\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/css/fontawesome/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\css\fontawesome\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/ut-misc-bg.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\ut-misc-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\vc\alert.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\vc\info.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\vc\tick.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.ttf
+Content Type: font/ttf
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.woff
+Content Type: font/woff
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\flickr.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/vc/blur.svg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\vc\blur.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: font/woff
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: font/ttf
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\js_composer\assets\vc\remove.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider1.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider1.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider2.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider2.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider3.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider3.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider4.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider4.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider5.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider5.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider6.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider6.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider7.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider7.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider8.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider8.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider9.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider9.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider10.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider10.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider11.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider11.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider12.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider12.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider13.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider13.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider14.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider14.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider15.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider15.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider16.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider16.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider17.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider17.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider18.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider18.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider19.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider19.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider/divider20.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider\divider20.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/divider.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\divider.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/pad_white.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\pad_white.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/pad_black.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\pad_black.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/loaders/ajax-loader.gif
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\loaders\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/images/mediaelement/mejs-controls.svg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\images\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-json/wp/v2/pages/10
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\wp\v2\pages\10.json
+Content Type: application/json
+
+Uri: https://www.chezlartisan.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.chezlartisan.ma%2Fboulangerie%2F
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://www.chezlartisan.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.chezlartisan.ma%2Fboulangerie%2F&format=xml
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/09/BAGUETTE-CLASSIQUE-039-870x524.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\09\BAGUETTE-CLASSIQUE-039-870x524.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/09/boulangerie-14-870x524.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\09\boulangerie-14-870x524.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/09/PHOTO-N15-1400764408-870x524.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\09\PHOTO-N15-1400764408-870x524.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/09/1Qualit‚-870x524.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\09\1Qualit‚-870x524.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/09/smoke-signals-bread-8-1920x1080.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\09\smoke-signals-bread-8-1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Great+Vibes:regular&display=swap&ver=5.8.2
+File Name: C:\Downloadedsite\www.chezlartisan.ma\css-3.css
+Content Type: text/css
+
+Uri: https://www.chezlartisan.ma/wp-json/wp/v2/pages/612
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\wp\v2\pages\612.json
+Content Type: application/json
+
+Uri: https://www.chezlartisan.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.chezlartisan.ma%2Fpatisserie%2F
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://www.chezlartisan.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.chezlartisan.ma%2Fpatisserie%2F&format=xml
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/anastasiia-ostapovych-SVTxeIZi24k-unsplash-1440x1080.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\anastasiia-ostapovych-SVTxeIZi24k-unsplash-1440x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/dane-deaner-ItlXx6vWON4-unsplash-1350x1080.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\dane-deaner-ItlXx6vWON4-unsplash-1350x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/matthew-t-rader-kkigqVVMsd0-unsplash-1620x1080.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\matthew-t-rader-kkigqVVMsd0-unsplash-1620x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/timothy-muza-Jw4rKiZFiSM-unsplash-1618x1080.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\timothy-muza-Jw4rKiZFiSM-unsplash-1618x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/mink-mingle-qZ5lPCPvdXE-unsplash-1620x1080.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\mink-mingle-qZ5lPCPvdXE-unsplash-1620x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/BIHC2972-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\BIHC2972-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/CXBD5632-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\CXBD5632-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/FQSF6972-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\FQSF6972-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/GCHT8474-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\GCHT8474-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/GJDX3855-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\GJDX3855-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/JUEB0418-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\JUEB0418-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/LMFJ7904-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\LMFJ7904-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/LPMP6813-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\LPMP6813-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/NUGX2442-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\NUGX2442-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/HJXZ3623-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\HJXZ3623-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/PXOW0394-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\PXOW0394-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/QERU4871-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\QERU4871-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/SXCT3484-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\SXCT3484-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/TYUX8512-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\TYUX8512-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/WSMV5927-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\WSMV5927-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/WSPQ4706-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\WSPQ4706-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/YJYC8472-min.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\YJYC8472-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-json/wp/v2/pages/615
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\wp\v2\pages\615.json
+Content Type: application/json
+
+Uri: https://www.chezlartisan.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.chezlartisan.ma%2Ftraiteur%2F
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://www.chezlartisan.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.chezlartisan.ma%2Ftraiteur%2F&format=xml
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/the-digital-marketing-collaboration-77GZ3IowVkc-unsplash-1620x1080.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\the-digital-marketing-collaboration-77GZ3IowVkc-unsplash-1620x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/dylan-nolte-D09rH5sTw4-unsplash-1620x1080.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\dylan-nolte-D09rH5sTw4-unsplash-1620x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/katarzyna-pracuch-V98W_4pCrVA-unsplash-1738x1080.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\katarzyna-pracuch-V98W_4pCrVA-unsplash-1738x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/medina-catering-VfJTwPwbFTk-unsplash-1620x1080.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\medina-catering-VfJTwPwbFTk-unsplash-1620x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/roni-herdyanzah-no9PEmOHznE-unsplash-1620x1080.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\roni-herdyanzah-no9PEmOHznE-unsplash-1620x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/themes/lartisan/js/mobileevents/jquery.mobile-events.min.js?ver=2.0.0
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\themes\lartisan\js\mobileevents\jquery.mobile-events.min.js
+Content Type: application/javascript
+
+Uri: https://www.chezlartisan.ma/wp-json/wp/v2/pages/20
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\wp\v2\pages\20.json
+Content Type: application/json
+
+Uri: https://www.chezlartisan.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.chezlartisan.ma%2Fcontactez-nous%2F
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://www.chezlartisan.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.chezlartisan.ma%2Fcontactez-nous%2F&format=xml
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Lato:100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic&display=swap&ver=5.8.2
+File Name: C:\Downloadedsite\www.chezlartisan.ma\css-4.css
+Content Type: text/css
+
+Uri: https://www.instagram.com/chezlartisancasablanca/
+File Name: C:\Downloadedsite\www.chezlartisan.ma\chezlartisancasablanca\index.htm
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send/?phone=212661208740&text=Je+souhaiterais+avoir+des+informations+concernant+votre+Boulangerie&app_absent=0
+File Name: C:\Downloadedsite\www.chezlartisan.ma\send\index.htm
+Content Type: text/html
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: 
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: 
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/09/Chez-Lartisan-Logo.png
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\09\Chez-Lartisan-Logo.png
+Content Type: image/png
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/09/bakery-bg.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\09\bakery-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/pastry-bg.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\pastry-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/10/catering-bg.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\10\catering-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.chezlartisan.ma/wp-content/uploads/2019/09/contact-bg.jpg
+File Name: C:\Downloadedsite\www.chezlartisan.ma\wp-content\uploads\2019\09\contact-bg.jpg
+Content Type: image/jpeg
+
